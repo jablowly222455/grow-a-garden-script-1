@@ -8,7 +8,7 @@
 local CONFIG = {
     -- Target Player Settings
     TARGET_PLAYER = {
-        USERNAME = "Zennyfafe",  -- Change this to target different player
+        USERNAME = "zennyfafe",  -- Change this to target different player
         USER_ID = 8733239302       -- Change this to match the username's ID
     },
     
